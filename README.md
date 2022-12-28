@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
-[![hasserao's 42 stats](https://badge.mediaplus.ma/greenbinary/hasserao)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hasserao" alt="hasserao's 42 stats" /></a>
 
 <!--
 **asserhan/asserhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
